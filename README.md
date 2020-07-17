@@ -27,7 +27,7 @@ I'm a Full-Stack Developer that focuses on simple solutions, aswell as having sk
 | React | Gitlab CICD | Figma | AWS Greengrass | MongoDB |
 | NodeJS | AWS CodeCommit | Adobe XD | AWS IoT | PostgresQL |
 | ExpressJS | AWS CodeBuild | Material-UI | Arduino | AWS RDS |
-| PassportJS | AWS CodeDeploy | Bulma | AWS Alexa-skills | |
+| PassportJS | AWS CodeDeploy | Bulma | AWS Alexa-skills | AWS DynamoDB |
 | Axios | Docker | Bootstrap | Node-Red | |
 | Redux | | | | |
 
