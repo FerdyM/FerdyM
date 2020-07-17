@@ -23,7 +23,7 @@ I'm a Full-Stack Developer that focuses on simple solutions, aswell as having sk
 
 ### My Skills
 | Development | DevOPs | Design | IoT | | Database |
-| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
+| ------------- |:-------------:|:-------------:|:-------------:| -------------:|
 | React | Gitlab CICD | Figma | AWS Greengrass | MongoDB |
 | NodeJS | AWS CodeCommit | Adobe XD | AWS IoT | PostgresQL |
 | ExpressJS | AWS CodeBuild | Material-UI | Arduino | AWS RDS |
