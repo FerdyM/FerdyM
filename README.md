@@ -6,13 +6,12 @@ I'm a Full-Stack Developer that focuses on simple solutions, aswell as having sk
 | View Code | View Live |
 | ------------- |:-------------:|
 | [Web Portfolio](https://github.com/FerdyM/developer_portfolio)| [Web Portfolio](https://ferdymacleod.com) |
-| | |
-| | |
+| [ToDo-List](https://github.com/FerdyM/ToDo-List)| [ToDo-List](https://focused-albattani-08d2ff.netlify.app/) |
+| Smarthome-Dashboard (private) | Smarthome-Dashboard (private) |
 
-#### Languages I understand
 
-- English
-- Businessy gibberish
+### Languages I understand
+
 - Javascript
 - Typescript
 - Python
@@ -22,18 +21,17 @@ I'm a Full-Stack Developer that focuses on simple solutions, aswell as having sk
 - SQL
 
 
+### My Skills
+| Development | DevOPs | Design | IoT | | Database |
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
+| React | Gitlab CICD | Figma | AWS Greengrass | MongoDB |
+| NodeJS | AWS CodeCommit | Adobe XD | AWS IoT | PostgresQL |
+| ExpressJS | AWS CodeBuild | Material-UI | Arduino | AWS RDS |
+| PassportJS | AWS CodeDeploy | Bulma | AWS Alexa-skills | |
+| Axios | Docker | Bootstrap | Node-Red | |
+| Redux | | | | |
 
-<!--
-**FerdyM/FerdyM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Education
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Diploma of Information Technology
+- (soon)AWS Certified Developer
