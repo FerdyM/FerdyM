@@ -1,4 +1,4 @@
-## Hi I'm Ferdy, friendly full-stack developer :sunglasses:
+## Hi I'm Ferdy :sunglasses:
 
 I'm a Full-Stack Developer that focuses on simple solutions, aswell as having skills in DevOPs, Security, Design I am also an avid IoT hobbyist working on new projects every week! I am best at creating MERN stack applications but im certainly not limited to it!
 
